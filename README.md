@@ -20,8 +20,7 @@ This Power BI project analyzes sales data to provide useful insights for busines
 - Interactive Visuals
 
 # Purpose
-This dashboard helps businesses to:[sales insights.zip]
-
+This dashboard helps businesses to:
 - Identify key revenue-driving cities and customers.
 - Track performance over time.
 - Make data-driven decisions for marketing and supply chain.
